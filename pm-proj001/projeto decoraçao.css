@@ -1,0 +1,51 @@
+h2 {
+    text-transform: uppercase;
+    font-family: Arial;
+    text-align: center;
+    color: grey;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+h1 {
+    font-family: Arial;
+    text-align: center;
+    font-size: 50px;
+    
+    
+}
+
+li { 
+    list-style-type: none;
+    background-color: #9b59b6;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+    padding: 12px;
+    margin-left: 170px;
+    margin-right: 150px;
+    font-family: Arial;
+    font-size: 18px;
+    border: 3px solid black;
+}
+
+* {  
+    
+    margin: 0px;
+    padding: 0px;
+
+}
+body {      
+    background-color: #ecf0f1;
+    padding: 12px; 
+
+
+}
+
+
+
+    
+
+
+    
+    
+    
+
